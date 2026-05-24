@@ -1,4 +1,4 @@
-# 🌍 Nearby Places
+# 🌍 MoodTrail
 
 A modern, full-stack web application designed to help users discover nearby locations based on their current mood and real-time location. The app fetches real-world data, lists out optimal spots, calculates distance, and plots everything on an interactive map.
 
